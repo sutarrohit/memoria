@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1707368608191,
+      "tag": "0000_third_moonstone",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1707369230313,
+      "tag": "0001_lowly_natasha_romanoff",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1707371566264,
+      "tag": "0002_motionless_sugar_man",
+      "breakpoints": true
+    }
+  ]
+}
