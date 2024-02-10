@@ -2,10 +2,10 @@ import React from "react";
 
 interface LayoutProps {
   children: React.ReactNode;
-  param: any;
+  params: any;
 }
 
-const Layout: React.FC<LayoutProps> = ({ children, param }) => {
+const Layout: React.FC<LayoutProps> = async ({ children, params }) => {
   return <div>layout</div>;
 };
 
